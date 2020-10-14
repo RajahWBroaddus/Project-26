@@ -1,5 +1,5 @@
 
-##**Instructions**##
+**<h2>Instructions</h2>**
 1. Whisk eggs in a bowl.
 2. Add shredded cheese.
 3. Pour eggs into a pan and set it to 8 on the stovetop.
